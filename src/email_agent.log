@@ -1,0 +1,422 @@
+2025-06-19 11:56:10,453 - INFO - Starting email processing.
+2025-06-19 11:56:10,454 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-19 11:56:10,553 - WARNING - Encountered 403 Forbidden with reason "accessNotConfigured"
+2025-06-19 11:56:10,553 - ERROR - An error occurred during email processing: <HttpError 403 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages?q=is%3Aunread&alt=json returned "Gmail API has not been used in project 956961997559 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=956961997559 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.". Details: "[{'message': 'Gmail API has not been used in project 956961997559 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=956961997559 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.', 'domain': 'usageLimits', 'reason': 'accessNotConfigured', 'extendedHelp': 'https://console.developers.google.com'}]">
+2025-06-19 11:56:10,553 - INFO - Email processing finished.
+2025-06-19 12:12:39,256 - INFO - Starting email processing.
+2025-06-19 12:12:39,258 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-19 12:12:39,545 - INFO - Found 100 unread messages.
+2025-06-19 12:12:39,741 - INFO - Processing message 19788f3c782c5ed2 - Subject: Welcome to v0, From: v0 Team <ship@info.vercel.com>
+2025-06-19 12:12:39,822 - INFO - Message 19788f3c782c5ed2 classified as: Urgent
+2025-06-19 12:12:40,195 - INFO - Processing message 19788ee2b9fbb555 - Subject: Get data within 10 mins: Download the Octoparse App, From: Octoparse <info@help.octoparse.com>
+2025-06-19 12:12:40,197 - INFO - Message 19788ee2b9fbb555 classified as: Promotions
+2025-06-19 12:12:40,548 - INFO - Processing message 19788e2fc27194c6 - Subject: Live expert-led courses are waiting for you, From: Codecademy <learn@itr.mail.codecademy.com>
+2025-06-19 12:12:40,550 - INFO - Message 19788e2fc27194c6 classified as: Promotions
+2025-06-19 12:12:40,966 - INFO - Processing message 19788bda119866a7 - Subject: Welcome to Octoparse! Let's get you started!, From: Octoparse <info@hello.octoparse.com>
+2025-06-19 12:12:40,968 - INFO - Message 19788bda119866a7 classified as: Promotions
+2025-06-19 12:12:41,315 - INFO - Processing message 197887ed1d38bce0 - Subject: 🧭 Votre prochaine aventure et vos points de fidélité vous attendent !, From: DECATHLON <noreply-tn@email.decathlon.com>
+2025-06-19 12:12:41,322 - INFO - Message 197887ed1d38bce0 classified as: Urgent
+2025-06-19 12:12:41,704 - INFO - Processing message 19788537c44f50ce - Subject: The GENIUS Stablecoin Play💸, From: "Wormhole | Token Dispatch" <thetokendispatch+wormhole@substack.com>
+2025-06-19 12:12:41,709 - INFO - Message 19788537c44f50ce classified as: Promotions
+2025-06-19 12:12:42,089 - INFO - Processing message 19787a7165d5a642 - Subject: Amine Ben Amara sent a message to the group conversation "Ahhawa lblid 😃"., From: Amine via Messenger <messages@facebookmail.com>
+2025-06-19 12:12:42,091 - INFO - Message 19787a7165d5a642 classified as: Urgent
+2025-06-19 12:12:42,492 - INFO - Processing message 197846a1f7a62ebf - Subject: Drawing with LLMs: Our First Packages Competition Wraps Up, From: Kaggle <noreply@kaggle.com>
+2025-06-19 12:12:42,494 - INFO - Message 197846a1f7a62ebf classified as: Promotions
+2025-06-19 12:12:42,839 - INFO - Processing message 1978446b41628325 - Subject: Last day for BOGO Offer!, From: FundedNext <updates@fundednext.com>
+2025-06-19 12:12:42,841 - INFO - Message 1978446b41628325 classified as: Promotions
+2025-06-19 12:12:43,191 - INFO - Processing message 19783f37cc79085c - Subject: Galileo->stitch.withgoogle.com on Friday 6/20, From: Arnaud Benard <arnaud@mail.usegalileo.ai>
+2025-06-19 12:12:43,193 - INFO - Message 19783f37cc79085c classified as: Urgent
+2025-06-19 12:12:43,530 - INFO - Processing message 19783b6de2b116f9 - Subject: New Course! 😎 Learn to Tell Better Stories, Just $9.99, From: "Udemy Instructor: Video School" <no-reply@e.udemymail.com>
+2025-06-19 12:12:43,533 - INFO - Message 19783b6de2b116f9 classified as: Promotions
+2025-06-19 12:12:43,859 - INFO - Processing message 19783b5f86ff00e4 - Subject: SUMMER SALE — 60% off 🌞, From: Codecademy <learn@itr.mail.codecademy.com>
+2025-06-19 12:12:43,860 - INFO - Message 19783b5f86ff00e4 classified as: Promotions
+2025-06-19 12:12:44,381 - INFO - Processing message 19783911755069cd - Subject: Add Your Brand in Just a Few Clicks (Increase Your Brand Awareness), From: "Kate @ Pictory" <kate@pictory.ai>
+2025-06-19 12:12:44,382 - INFO - Message 19783911755069cd classified as: Promotions
+2025-06-19 12:12:44,712 - INFO - Processing message 197836034a26cdb0 - Subject: Jihed, these positions could be a great match for you 👀, From: Joinrs <info@joinrs.com>
+2025-06-19 12:12:44,713 - INFO - Message 197836034a26cdb0 classified as: Promotions
+2025-06-19 12:12:45,042 - INFO - Processing message 19783202c17c615c - Subject: Stake Poker – Prenez le contrôle de la table., From: "Stake.com" <noreply@mail.stake.com>
+2025-06-19 12:12:45,046 - INFO - Message 19783202c17c615c classified as: Urgent
+2025-06-19 12:12:45,409 - INFO - Processing message 19783062a69c68af - Subject: ⏳ Get Coursera Plus for 65% off! Limited time only!, From: Coursera <Coursera@m.learn.coursera.org>
+2025-06-19 12:12:45,410 - INFO - Message 19783062a69c68af classified as: Promotions
+2025-06-19 12:12:45,774 - INFO - Processing message 19782ee8cda0d890 - Subject: Uh-oh! Your Odoo free trial just ended!, From: Odoo Online <online@odoo.com>
+2025-06-19 12:12:45,775 - INFO - Message 19782ee8cda0d890 classified as: Promotions
+2025-06-19 12:12:46,117 - INFO - Processing message 197802a29d69f210 - Subject: A special invitation  💌, From: Unsplash Team <marketing@unsplash.com>
+2025-06-19 12:12:46,118 - INFO - Message 197802a29d69f210 classified as: Promotions
+2025-06-19 12:12:46,492 - INFO - Processing message 1977ffe0b155514c - Subject: Linux dads, AI Commoditization, home servers, CSS charts, and more!, From: DEV Community Newsletter <yo@dev.to>
+2025-06-19 12:12:46,499 - INFO - Message 1977ffe0b155514c classified as: Urgent
+2025-06-19 12:12:46,862 - INFO - Processing message 1977fd4bb8a81c63 - Subject: Weekly Download: The Sound of Glastonbury, Plus Take Your Library on the Road With Apple CarPlay, From: SoundCloud <info@announcements.soundcloud.com>
+2025-06-19 12:12:46,874 - INFO - Message 1977fd4bb8a81c63 classified as: Personal
+2025-06-19 12:12:47,240 - INFO - Processing message 1977f40447d24014 - Subject: 🎁Claimed your BOGO offer yet?, From: FundedNext <updates@fundednext.com>
+2025-06-19 12:12:47,241 - INFO - Message 1977f40447d24014 classified as: Promotions
+2025-06-19 12:12:47,635 - INFO - Processing message 1977e85ab203e700 - Subject: Real-World YouTube Strategy in Action 🎬, From: "Udemy Instructor: Phil Ebiner" <no-reply@e.udemymail.com>
+2025-06-19 12:12:47,638 - INFO - Message 1977e85ab203e700 classified as: Urgent
+2025-06-19 12:12:48,032 - INFO - Processing message 1977e77c79e3c15f - Subject: PhotoDash is Back! 📷⚡, From: "Udemy Instructor: Phil Ebiner" <no-reply@e.udemymail.com>
+2025-06-19 12:12:48,034 - INFO - Message 1977e77c79e3c15f classified as: Promotions
+2025-06-19 12:12:48,384 - INFO - Processing message 1977e4a99c2dd1a1 - Subject: Votre test sur Odoo, From: "Anicée Renard (aren)" <aren@odoo.com>
+2025-06-19 12:12:48,386 - INFO - Message 1977e4a99c2dd1a1 classified as: Urgent
+2025-06-19 12:12:48,746 - INFO - Processing message 1977de2ddf67574f - Subject: Competition Launch: NeurIPS Open Polymer Prediction 2025, From: Kaggle <noreply@kaggle.com>
+2025-06-19 12:12:48,747 - INFO - Message 1977de2ddf67574f classified as: Promotions
+2025-06-19 12:12:49,092 - INFO - Processing message 1977d83c697abb49 - Subject: Sarah Sahli sent a message to the group conversation "4TWIN 7"., From: Sarah via Messenger <messages@facebookmail.com>
+2025-06-19 12:12:49,093 - INFO - Message 1977d83c697abb49 classified as: Urgent
+2025-06-19 12:12:49,463 - INFO - Processing message 1977c6a1963533dd - Subject: cara alwill, hasif 💌, and Terry Moran posted new notes, From: Substack <no-reply@substack.com>
+2025-06-19 12:12:49,473 - INFO - Message 1977c6a1963533dd classified as: Promotions
+2025-06-19 12:12:49,830 - INFO - Processing message 1977b03bd9eb1c58 - Subject: Beautiful photos on every screen 📱💻, From: Unsplash Team <marketing@unsplash.com>
+2025-06-19 12:12:49,832 - INFO - Message 1977b03bd9eb1c58 classified as: Promotions
+2025-06-19 12:12:50,158 - INFO - Processing message 1977afa13347fadd - Subject: Youssef Naamene sent a message to the group conversation "Ahhawa lblid 😃"., From: Youssef via Messenger <messages@facebookmail.com>
+2025-06-19 12:12:50,159 - INFO - Message 1977afa13347fadd classified as: Urgent
+2025-06-19 12:12:50,460 - INFO - Processing message 19779beef5f817a5 - Subject: Your photography tools download, From: Serge Ramelli <serge@photoserge.com>
+2025-06-19 12:12:50,462 - INFO - Message 19779beef5f817a5 classified as: Promotions
+2025-06-19 12:12:50,785 - INFO - Processing message 19779ba20ed1b0ef - Subject: Alerte de sécurité, From: Google <no-reply@accounts.google.com>
+2025-06-19 12:12:50,786 - INFO - Message 19779ba20ed1b0ef classified as: Urgent
+2025-06-19 12:12:51,156 - INFO - Processing message 197799992d25c27c - Subject: NEW: Expert-led live instruction on Codecademy, From: Codecademy <learn@itr.mail.codecademy.com>
+2025-06-19 12:12:51,158 - INFO - Message 197799992d25c27c classified as: Promotions
+2025-06-19 12:12:51,502 - INFO - Processing message 1977952a0e3d2204 - Subject: 🎉 Exciting news! Your proposal has been viewed!, From: Upwork <upwork@email.upwork.com>
+2025-06-19 12:12:51,504 - INFO - Message 1977952a0e3d2204 classified as: Promotions
+2025-06-19 12:12:51,847 - INFO - Processing message 19778f8e9c546685 - Subject: BTC Shrugs Geopolitics, From: "Mempool | Token Dispatch" <thetokendispatch+mempool@substack.com>
+2025-06-19 12:12:51,850 - INFO - Message 19778f8e9c546685 classified as: Promotions
+2025-06-19 12:12:52,183 - INFO - Processing message 19778cc3e2059f24 - Subject: $1.63M in Rewards & A Surprise Launch!, From: FundedNext <updates@fundednext.com>
+2025-06-19 12:12:52,184 - INFO - Message 19778cc3e2059f24 classified as: Urgent
+2025-06-19 12:12:52,506 - INFO - Processing message 19778bd0153a5363 - Subject: Aziz Ben Messaoud sent a message to the group conversation "Ahhawa lblid 😃"., From: Aziz via Messenger <messages@facebookmail.com>
+2025-06-19 12:12:52,508 - INFO - Message 19778bd0153a5363 classified as: Urgent
+2025-06-19 12:12:52,935 - INFO - Processing message 19778a1852a23b74 - Subject: Your Odoo free trial is coming to an end soon, From: Odoo Online <online@odoo.com>
+2025-06-19 12:12:52,936 - INFO - Message 19778a1852a23b74 classified as: Work
+2025-06-19 12:12:53,268 - INFO - Processing message 19778a1588851c39 - Subject: Updates to Your Basic Plan - Upgrade & Save 40%, From: Podcastle <marketing@news.podcastle.ai>
+2025-06-19 12:12:53,269 - INFO - Message 19778a1588851c39 classified as: Promotions
+2025-06-19 12:12:53,687 - INFO - Processing message 19778859313435ed - Subject: Frontend Software Engineer - Revolut Bank, From: Joinrs <info@joinrs.com>
+2025-06-19 12:12:53,688 - INFO - Message 19778859313435ed classified as: Urgent
+2025-06-19 12:12:54,071 - INFO - Processing message 1977868baccb941f - Subject: My personal welcome to Joinrs, Jihed  🚀, From: Anna Allevi <info@joinrs.com>
+2025-06-19 12:12:54,072 - INFO - Message 1977868baccb941f classified as: Promotions
+2025-06-19 12:12:54,434 - INFO - Processing message 19778537c6d1a18d - Subject: Welcome to Medius, From: "Soufia Ghariani, Medius" <soufia.ghariani@medius.teamtailor-mail.com>
+2025-06-19 12:12:54,435 - INFO - Message 19778537c6d1a18d classified as: Promotions
+2025-06-19 12:12:54,777 - INFO - Processing message 197784b6d265a1ab - Subject: ✅ Jihed, terminez de configurer votre appareil Apple iPhone en utilisant les plus récentes applis Google, From: Google <no-reply@google.com>
+2025-06-19 12:12:54,778 - INFO - Message 197784b6d265a1ab classified as: Urgent
+2025-06-19 12:12:55,130 - INFO - Processing message 197784a8e5be8851 - Subject: An unknown device or browser has been used to access your account, From: Upwork Notification <donotreply@upwork.com>
+2025-06-19 12:12:55,131 - INFO - Message 197784a8e5be8851 classified as: Urgent
+2025-06-19 12:12:55,478 - INFO - Processing message 197784a7911ddc79 - Subject: Alerte de sécurité, From: Google <no-reply@accounts.google.com>
+2025-06-19 12:12:55,479 - INFO - Message 197784a7911ddc79 classified as: Urgent
+2025-06-19 12:12:55,807 - INFO - Processing message 19777f7d3f22f0f2 - Subject: 100 000 $ en prix à gagner : Rejoignez le Coin Drop maintenant !, From: "Stake.com" <noreply@mail.stake.com>
+2025-06-19 12:12:55,810 - INFO - Message 19777f7d3f22f0f2 classified as: Urgent
+2025-06-19 12:12:56,154 - INFO - Processing message 1977621e6e8faa7e - Subject: Play Voice Tools: Level up your content, From: PlayAI <product@play.ht>
+2025-06-19 12:12:56,155 - INFO - Message 1977621e6e8faa7e classified as: Promotions
+2025-06-19 12:12:56,487 - INFO - Processing message 197740243b6b3eff - Subject: Lootbase's Mobile-First Bet 📱, From: "Rabbit Hole | Token Dispatch" <thetokendispatch+rabbit-hole@substack.com>
+2025-06-19 12:12:56,490 - INFO - Message 197740243b6b3eff classified as: Promotions
+2025-06-19 12:12:56,845 - INFO - Processing message 19773c590aba72b5 - Subject: Jihed's Recommended Classes, From: Skillshare <hello@skillshare.com>
+2025-06-19 12:12:56,847 - INFO - Message 19773c590aba72b5 classified as: Promotions
+2025-06-19 12:12:57,156 - INFO - Processing message 197732e002353878 - Subject: Forgotpassword code for Hoxx account, From: support@hoxx.com
+2025-06-19 12:12:57,157 - INFO - Message 197732e002353878 classified as: Urgent
+2025-06-19 12:12:57,504 - INFO - Processing message 1977308d16655179 - Subject: jihed, كل عام وأنت بألف خير، عيد ميلاد سعيد, From: FORSA Portal <noreply@for9a.com>
+2025-06-19 12:12:57,509 - INFO - Message 1977308d16655179 classified as: Urgent
+2025-06-19 12:12:57,822 - INFO - Processing message 197728e91a3d011e - Subject: Youssef Naamene sent a message to the group conversation "Ahhawa lblid 😃"., From: Youssef via Messenger <messages@facebookmail.com>
+2025-06-19 12:12:57,824 - INFO - Message 197728e91a3d011e classified as: Urgent
+2025-06-19 12:12:58,178 - INFO - Processing message 1977092a1e558663 - Subject: Outstanding works from Unsplash Contributors 🔝, From: Unsplash Team <marketing@unsplash.com>
+2025-06-19 12:12:58,179 - INFO - Message 1977092a1e558663 classified as: Promotions
+2025-06-19 12:12:58,521 - INFO - Processing message 1976fe85178687a7 - Subject: You logged into Adobe with Facebook, From: Facebook <notification@facebookmail.com>
+2025-06-19 12:12:58,522 - INFO - Message 1976fe85178687a7 classified as: Promotions
+2025-06-19 12:12:58,882 - INFO - Processing message 1976f4625e8d9ed4 - Subject: Firas Labidi sent a message to the group conversation "4TWIN 7"., From: Labidi via Messenger <messages@facebookmail.com>
+2025-06-19 12:12:58,884 - INFO - Message 1976f4625e8d9ed4 classified as: Urgent
+2025-06-19 12:12:59,219 - INFO - Processing message 1976f1099d8b2acb - Subject: [Suite à votre achat] : Jihed, êtes-vous satisfait(e) de vos derniers achats ?, From: DECATHLON <noreply-tn@email.decathlon.com>
+2025-06-19 12:12:59,223 - INFO - Message 1976f1099d8b2acb classified as: Urgent
+2025-06-19 12:12:59,559 - INFO - Processing message 1976e19dadb28e2c - Subject: 🚀 1 Hour Left, From: Thomas Kralow <info@thomaskralow.com>
+2025-06-19 12:12:59,560 - INFO - Message 1976e19dadb28e2c classified as: Promotions
+2025-06-19 12:12:59,974 - INFO - Processing message 1976bf5bf4604f32 - Subject: Need weekend plans? Look no further!, From: DEV Community <yo@dev.to>
+2025-06-19 12:12:59,981 - INFO - Message 1976bf5bf4604f32 classified as: Urgent
+2025-06-19 12:13:00,352 - INFO - Processing message 1976bd52c092d64f - Subject: Top Tips from our team, From: PlayAI <product@play.ht>
+2025-06-19 12:13:00,354 - INFO - Message 1976bd52c092d64f classified as: Promotions
+2025-06-19 12:13:00,700 - INFO - Processing message 1976b6c416df3b8d - Subject: Welcome to Unsplash 🙌🏼, From: Unsplash Team <friends@unsplash.com>
+2025-06-19 12:13:00,702 - INFO - Message 1976b6c416df3b8d classified as: Promotions
+2025-06-19 12:13:01,056 - INFO - Processing message 1976b006f3838317 - Subject: Khalil Ben Massoud sent a message to the group conversation "🦶⚽"., From: Khalil via Messenger <messages@facebookmail.com>
+2025-06-19 12:13:01,058 - INFO - Message 1976b006f3838317 classified as: Urgent
+2025-06-19 12:13:01,442 - INFO - Processing message 1976af9c2510ba4e - Subject: Zahra Zellazi sent a message to the group conversation "4 eme TWIN"., From: Zahra via Messenger <messages@facebookmail.com>
+2025-06-19 12:13:01,444 - INFO - Message 1976af9c2510ba4e classified as: Urgent
+2025-06-19 12:13:01,817 - INFO - Processing message 1976acc56f059c13 - Subject: Firas Labidi sent a message to the group conversation "4TWIN 7"., From: Labidi via Messenger <messages@facebookmail.com>
+2025-06-19 12:13:01,818 - INFO - Message 1976acc56f059c13 classified as: Urgent
+2025-06-19 12:13:02,164 - INFO - Processing message 1976ab40a8d7abd8 - Subject: The easiest way to launch scalable web services , From: Stephen from Render <hello@render.com>
+2025-06-19 12:13:02,165 - INFO - Message 1976ab40a8d7abd8 classified as: Promotions
+2025-06-19 12:13:02,501 - INFO - Processing message 1976aa7a6be91baf - Subject: Important change to your Premier League account, From: Fantasy Premier League <comms@mailout.comms.premierleague.com>
+2025-06-19 12:13:02,508 - INFO - Message 1976aa7a6be91baf classified as: Promotions
+2025-06-19 12:13:02,849 - INFO - Processing message 1976a7435320e347 - Subject: Yassin Nouri sent a message to the group conversation "4 eme TWIN"., From: Yassin via Messenger <messages@facebookmail.com>
+2025-06-19 12:13:02,851 - INFO - Message 1976a7435320e347 classified as: Urgent
+2025-06-19 12:13:03,199 - INFO - Processing message 1976a6b05730aff7 - Subject: Your AI presets download link, From: Serge Ramelli <serge@photoserge.com>
+2025-06-19 12:13:03,202 - INFO - Message 1976a6b05730aff7 classified as: Promotions
+2025-06-19 12:13:03,587 - INFO - Processing message 1976a3d14b1496d3 - Subject: We’re live — join the strategy session now, From: Thomas Kralow <info@thomaskralow.com>
+2025-06-19 12:13:03,588 - INFO - Message 1976a3d14b1496d3 classified as: Promotions
+2025-06-19 12:13:03,934 - INFO - Processing message 1976a06288e8ef9e - Subject: 1 hour left — your session link is coming, From: Thomas Kralow <info@thomaskralow.com>
+2025-06-19 12:13:03,935 - INFO - Message 1976a06288e8ef9e classified as: Promotions
+2025-06-19 12:13:04,284 - INFO - Processing message 19769d1dc600184a - Subject: Make Professional Quality Videos Like This in Just Minutes (It's Easy  Jihed!), From: "Kate @ Pictory" <kate@pictory.ai>
+2025-06-19 12:13:04,285 - INFO - Message 19769d1dc600184a classified as: Promotions
+2025-06-19 12:13:04,678 - INFO - Processing message 197698498352c0d9 - Subject: Adam Back: The Man Who Built Bitcoin's Heart 🔐, From: "HashedIn | Token Dispatch" <thetokendispatch+hashedin@substack.com>
+2025-06-19 12:13:04,681 - INFO - Message 197698498352c0d9 classified as: Promotions
+2025-06-19 12:13:05,037 - INFO - Processing message 197690c4313235fa - Subject: This isn't fair, From: Serge Ramelli <serge@photoserge.com>
+2025-06-19 12:13:05,039 - INFO - Message 197690c4313235fa classified as: Newsletters
+2025-06-19 12:13:05,363 - INFO - Processing message 19768e247952b741 - Subject: Welcome to your Google Developer Profile!, From: Google Developer Profile <googledev-noreply@google.com>
+2025-06-19 12:13:05,364 - INFO - Message 19768e247952b741 classified as: Promotions
+2025-06-19 12:13:05,681 - INFO - Processing message 19768c69de824f2d - Subject: Check all the recent updates in Sylius 🦢, From: Patryk from Sylius <contact@sylius.com>
+2025-06-19 12:13:05,682 - INFO - Message 19768c69de824f2d classified as: Newsletters
+2025-06-19 12:13:06,019 - INFO - Processing message 19768bbaa78a9d84 - Subject: Tirez dans le mille et remportez jusqu’à 500× votre mise !, From: "Stake.com" <noreply@mail.stake.com>
+2025-06-19 12:13:06,022 - INFO - Message 19768bbaa78a9d84 classified as: Urgent
+2025-06-19 12:13:06,363 - INFO - Processing message 19768220f6702391 - Subject: Youssef Naamene sent a message to the group conversation "Ahhawa lblid 😃"., From: Youssef via Messenger <messages@facebookmail.com>
+2025-06-19 12:13:06,364 - INFO - Message 19768220f6702391 classified as: Urgent
+2025-06-19 12:13:06,726 - INFO - Processing message 19766aec32449b09 - Subject: Welcome to Play, From: PlayAI <product@play.ht>
+2025-06-19 12:13:06,727 - INFO - Message 19766aec32449b09 classified as: Promotions
+2025-06-19 12:13:07,083 - INFO - Processing message 19765d10bd710693 - Subject: Youssef Naamene sent a message to the group conversation "🦶⚽"., From: Youssef via Messenger <messages@facebookmail.com>
+2025-06-19 12:13:07,085 - INFO - Message 19765d10bd710693 classified as: Urgent
+2025-06-19 12:13:07,406 - INFO - Processing message 1976542b903b1122 - Subject: "these presets work like magic!", From: Serge Ramelli <serge@photoserge.com>
+2025-06-19 12:13:07,407 - INFO - Message 1976542b903b1122 classified as: Promotions
+2025-06-19 12:13:07,766 - INFO - Processing message 19764526f71957ba - Subject: [Free Video Tutorial] How to Use Copilot in Excel, From: "Udemy Instructor: Start-Tech Academy" <no-reply@e.udemymail.com>
+2025-06-19 12:13:07,769 - INFO - Message 19764526f71957ba classified as: Promotions
+2025-06-19 12:13:08,088 - INFO - Processing message 19763d6fd7280625 - Subject: Sarah Sahli sent a message to the group conversation "4TWIN 7"., From: Sarah via Messenger <messages@facebookmail.com>
+2025-06-19 12:13:08,090 - INFO - Message 19763d6fd7280625 classified as: Urgent
+2025-06-19 12:13:08,414 - INFO - Processing message 19763d0d33de6dcf - Subject: Download these Lightroom Presets before we begin, From: Serge Ramelli <serge@photoserge.com>
+2025-06-19 12:13:08,416 - INFO - Message 19763d0d33de6dcf classified as: Promotions
+2025-06-19 12:13:08,739 - INFO - Processing message 1976376811648b63 - Subject: Youssef Naamene sent a message to the group conversation "🦶⚽"., From: Youssef via Messenger <messages@facebookmail.com>
+2025-06-19 12:13:08,740 - INFO - Message 1976376811648b63 classified as: Urgent
+2025-06-19 12:13:09,129 - INFO - Processing message 19761bb6f731673f - Subject: JSExpress: Your Odoo Periodic Digest, From: JSExpress <notifications@jsexpress.odoo.com>
+2025-06-19 12:13:09,131 - INFO - Message 19761bb6f731673f classified as: Urgent
+2025-06-19 12:13:09,472 - INFO - Processing message 197613f55a0a80bb - Subject: Eya Boukhris sent a message to the group conversation "4TWIN 7"., From: Eya via Messenger <messages@facebookmail.com>
+2025-06-19 12:13:09,474 - INFO - Message 197613f55a0a80bb classified as: Urgent
+2025-06-19 12:13:09,800 - INFO - Processing message 1976080b3cccbdc8 - Subject: Competition Launch: Make Data Count - Finding Data References, From: Kaggle <no-reply@kaggle.com>
+2025-06-19 12:13:09,802 - INFO - Message 1976080b3cccbdc8 classified as: Promotions
+2025-06-19 12:13:10,156 - INFO - Processing message 1976067214262fa2 - Subject: The easiest way to launch scalable web services , From: Stephen from Render <hello@render.com>
+2025-06-19 12:13:10,158 - INFO - Message 1976067214262fa2 classified as: Promotions
+2025-06-19 12:13:10,516 - INFO - Processing message 19760454f0f21a1d - Subject: Unleash your creativity: the Storyblok Challenge just dropped with $3,000 in prizes!, From: DEV Community <yo@dev.to>
+2025-06-19 12:13:10,520 - INFO - Message 19760454f0f21a1d classified as: Urgent
+2025-06-19 12:13:10,846 - INFO - Processing message 1976012efff9fd17 - Subject: Warda Hlel sent a message to the group conversation "4TWIN 7"., From: Warda via Messenger <messages@facebookmail.com>
+2025-06-19 12:13:10,848 - INFO - Message 1976012efff9fd17 classified as: Urgent
+2025-06-19 12:13:11,218 - INFO - Processing message 1975f27b92458be5 - Subject: From Practice to Profit: Sharpen Your Skills with FundedNext, From: FundedNext <updates@fundednext.com>
+2025-06-19 12:13:11,219 - INFO - Message 1975f27b92458be5 classified as: Promotions
+2025-06-19 12:13:11,595 - INFO - Processing message 1975e5e308ab050c - Subject: Slackbot mentioned you in #Slackbot, From: Slack <notification@slack.com>
+2025-06-19 12:13:11,596 - INFO - Message 1975e5e308ab050c classified as: Promotions
+2025-06-19 12:13:11,938 - INFO - Processing message 1975d959ccf5fd4e - Subject: Airtable workspace switched to the Free plan, From: Airtable <noreply@airtable.com>
+2025-06-19 12:13:11,939 - INFO - Message 1975d959ccf5fd4e classified as: Promotions
+2025-06-19 12:13:12,280 - INFO - Processing message 1975cde3cc9183fe - Subject: Weekly Download — Festival Radar: Tennessee Farm Essentials, Plus Check Out Exclusive Commentary From Goose, From: SoundCloud <info@announcements.soundcloud.com>
+2025-06-19 12:13:12,292 - INFO - Message 1975cde3cc9183fe classified as: Personal
+2025-06-19 12:13:12,655 - INFO - Processing message 1975bfbac69adeb8 - Subject: Aymen Ghazouani sent a message to the group conversation "4TWIN 7"., From: Aymen via Messenger <messages@facebookmail.com>
+2025-06-19 12:13:12,657 - INFO - Message 1975bfbac69adeb8 classified as: Urgent
+2025-06-19 12:13:12,996 - INFO - Processing message 1975bd993ce840b2 - Subject: d0wwN is live: EL KING FEL KICK - RP FEL UG  + JUST CHATTING, From: Twitch <no-reply@twitch.tv>
+2025-06-19 12:13:13,001 - INFO - Message 1975bd993ce840b2 classified as: Urgent
+2025-06-19 12:13:13,356 - INFO - Processing message 1975b19ac4844e35 - Subject: wow, From: Serge Ramelli <serge@photoserge.com>
+2025-06-19 12:13:13,357 - INFO - Message 1975b19ac4844e35 classified as: Newsletters
+2025-06-19 12:13:13,704 - INFO - Processing message 1975a25b75e596ad - Subject: The Path | 7 ways to play your way to progress & a brand new class from Brent Eviston 🔥, From: Skillshare <hello@skillshare.com>
+2025-06-19 12:13:13,707 - INFO - Message 1975a25b75e596ad classified as: Promotions
+2025-06-19 12:13:14,039 - INFO - Processing message 1975a036c115fe9d - Subject: ETH's Treasury Turnaround 🏛️, From: "Wormhole | Token Dispatch" <thetokendispatch+wormhole@substack.com>
+2025-06-19 12:13:14,042 - INFO - Message 1975a036c115fe9d classified as: Promotions
+2025-06-19 12:13:14,348 - INFO - Processing message 197599fc60d03c88 - Subject: The best ways to get started with Deepgram 👇, From: Deepgram <devs@learn.deepgram.com>
+2025-06-19 12:13:14,350 - INFO - Message 197599fc60d03c88 classified as: Promotions
+2025-06-19 12:13:14,738 - INFO - Processing message 197599e9271422a4 - Subject: Firas Labidi sent a message to the group conversation "4TWIN 7"., From: Labidi via Messenger <messages@facebookmail.com>
+2025-06-19 12:13:14,739 - INFO - Message 197599e9271422a4 classified as: Urgent
+2025-06-19 12:13:15,129 - INFO - Processing message 197595e67f6c9aeb - Subject: Aymen Ghazouani sent a message to the group conversation "4TWIN 7"., From: Aymen via Messenger <messages@facebookmail.com>
+2025-06-19 12:13:15,130 - INFO - Message 197595e67f6c9aeb classified as: Urgent
+2025-06-19 12:13:15,282 - INFO - Archiving old emails...
+2025-06-19 12:13:31,831 - ERROR - An error occurred during email processing: [Errno 5] Input/output error
+2025-06-19 12:13:31,831 - INFO - Email processing finished.
+2025-06-19 12:14:05,833 - INFO - Starting email processing.
+2025-06-19 12:14:05,834 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-19 12:14:06,106 - INFO - Found 100 unread messages.
+2025-06-19 12:14:06,296 - INFO - Processing message 19788f3c782c5ed2 - Subject: Welcome to v0, From: v0 Team <ship@info.vercel.com>
+2025-06-19 12:14:06,301 - INFO - Message 19788f3c782c5ed2 classified as: Urgent
+2025-06-19 12:14:07,468 - INFO - Processing message 19788ee2b9fbb555 - Subject: Get data within 10 mins: Download the Octoparse App, From: Octoparse <info@help.octoparse.com>
+2025-06-19 12:14:07,469 - INFO - Message 19788ee2b9fbb555 classified as: Promotions
+2025-06-19 12:14:08,675 - INFO - Processing message 19788e2fc27194c6 - Subject: Live expert-led courses are waiting for you, From: Codecademy <learn@itr.mail.codecademy.com>
+2025-06-19 12:14:08,677 - INFO - Message 19788e2fc27194c6 classified as: Promotions
+2025-06-19 12:14:09,517 - INFO - Processing message 19788bda119866a7 - Subject: Welcome to Octoparse! Let's get you started!, From: Octoparse <info@hello.octoparse.com>
+2025-06-19 12:14:09,519 - INFO - Message 19788bda119866a7 classified as: Promotions
+2025-06-19 12:14:10,390 - INFO - Processing message 197887ed1d38bce0 - Subject: 🧭 Votre prochaine aventure et vos points de fidélité vous attendent !, From: DECATHLON <noreply-tn@email.decathlon.com>
+2025-06-19 12:14:10,396 - INFO - Message 197887ed1d38bce0 classified as: Urgent
+2025-06-19 12:14:11,201 - INFO - Processing message 19788537c44f50ce - Subject: The GENIUS Stablecoin Play💸, From: "Wormhole | Token Dispatch" <thetokendispatch+wormhole@substack.com>
+2025-06-19 12:14:11,204 - INFO - Message 19788537c44f50ce classified as: Promotions
+2025-06-19 12:14:12,026 - INFO - Processing message 19787a7165d5a642 - Subject: Amine Ben Amara sent a message to the group conversation "Ahhawa lblid 😃"., From: Amine via Messenger <messages@facebookmail.com>
+2025-06-19 12:14:12,028 - INFO - Message 19787a7165d5a642 classified as: Urgent
+2025-06-19 12:14:12,853 - INFO - Processing message 197846a1f7a62ebf - Subject: Drawing with LLMs: Our First Packages Competition Wraps Up, From: Kaggle <noreply@kaggle.com>
+2025-06-19 12:14:12,855 - INFO - Message 197846a1f7a62ebf classified as: Promotions
+2025-06-19 12:14:13,695 - INFO - Processing message 1978446b41628325 - Subject: Last day for BOGO Offer!, From: FundedNext <updates@fundednext.com>
+2025-06-19 12:14:13,697 - INFO - Message 1978446b41628325 classified as: Promotions
+2025-06-19 12:14:14,465 - INFO - Processing message 19783f37cc79085c - Subject: Galileo->stitch.withgoogle.com on Friday 6/20, From: Arnaud Benard <arnaud@mail.usegalileo.ai>
+2025-06-19 12:14:14,466 - INFO - Message 19783f37cc79085c classified as: Urgent
+2025-06-19 12:14:15,280 - INFO - Processing message 19783b6de2b116f9 - Subject: New Course! 😎 Learn to Tell Better Stories, Just $9.99, From: "Udemy Instructor: Video School" <no-reply@e.udemymail.com>
+2025-06-19 12:14:15,282 - INFO - Message 19783b6de2b116f9 classified as: Promotions
+2025-06-19 12:14:16,082 - INFO - Processing message 19783b5f86ff00e4 - Subject: SUMMER SALE — 60% off 🌞, From: Codecademy <learn@itr.mail.codecademy.com>
+2025-06-19 12:14:16,084 - INFO - Message 19783b5f86ff00e4 classified as: Promotions
+2025-06-19 12:14:16,897 - INFO - Processing message 19783911755069cd - Subject: Add Your Brand in Just a Few Clicks (Increase Your Brand Awareness), From: "Kate @ Pictory" <kate@pictory.ai>
+2025-06-19 12:14:16,898 - INFO - Message 19783911755069cd classified as: Promotions
+2025-06-19 12:14:17,686 - INFO - Processing message 197836034a26cdb0 - Subject: Jihed, these positions could be a great match for you 👀, From: Joinrs <info@joinrs.com>
+2025-06-19 12:14:17,688 - INFO - Message 197836034a26cdb0 classified as: Promotions
+2025-06-19 12:14:18,517 - INFO - Processing message 19783202c17c615c - Subject: Stake Poker – Prenez le contrôle de la table., From: "Stake.com" <noreply@mail.stake.com>
+2025-06-19 12:14:18,521 - INFO - Message 19783202c17c615c classified as: Urgent
+2025-06-19 12:14:19,743 - INFO - Processing message 19783062a69c68af - Subject: ⏳ Get Coursera Plus for 65% off! Limited time only!, From: Coursera <Coursera@m.learn.coursera.org>
+2025-06-19 12:14:19,744 - INFO - Message 19783062a69c68af classified as: Promotions
+2025-06-19 12:14:20,694 - INFO - Processing message 19782ee8cda0d890 - Subject: Uh-oh! Your Odoo free trial just ended!, From: Odoo Online <online@odoo.com>
+2025-06-19 12:14:20,695 - INFO - Message 19782ee8cda0d890 classified as: Promotions
+2025-06-19 12:14:21,606 - INFO - Processing message 197802a29d69f210 - Subject: A special invitation  💌, From: Unsplash Team <marketing@unsplash.com>
+2025-06-19 12:14:21,607 - INFO - Message 197802a29d69f210 classified as: Promotions
+2025-06-19 12:14:22,484 - INFO - Processing message 1977ffe0b155514c - Subject: Linux dads, AI Commoditization, home servers, CSS charts, and more!, From: DEV Community Newsletter <yo@dev.to>
+2025-06-19 12:14:22,496 - INFO - Message 1977ffe0b155514c classified as: Urgent
+2025-06-19 12:14:23,318 - INFO - Processing message 1977fd4bb8a81c63 - Subject: Weekly Download: The Sound of Glastonbury, Plus Take Your Library on the Road With Apple CarPlay, From: SoundCloud <info@announcements.soundcloud.com>
+2025-06-19 12:14:23,331 - INFO - Message 1977fd4bb8a81c63 classified as: Personal
+2025-06-19 12:14:24,544 - INFO - Processing message 1977f40447d24014 - Subject: 🎁Claimed your BOGO offer yet?, From: FundedNext <updates@fundednext.com>
+2025-06-19 12:14:24,545 - INFO - Message 1977f40447d24014 classified as: Promotions
+2025-06-19 12:14:25,367 - INFO - Processing message 1977e85ab203e700 - Subject: Real-World YouTube Strategy in Action 🎬, From: "Udemy Instructor: Phil Ebiner" <no-reply@e.udemymail.com>
+2025-06-19 12:14:25,370 - INFO - Message 1977e85ab203e700 classified as: Urgent
+2025-06-19 12:14:26,175 - INFO - Processing message 1977e77c79e3c15f - Subject: PhotoDash is Back! 📷⚡, From: "Udemy Instructor: Phil Ebiner" <no-reply@e.udemymail.com>
+2025-06-19 12:14:26,178 - INFO - Message 1977e77c79e3c15f classified as: Promotions
+2025-06-19 12:14:26,979 - INFO - Processing message 1977e4a99c2dd1a1 - Subject: Votre test sur Odoo, From: "Anicée Renard (aren)" <aren@odoo.com>
+2025-06-19 12:14:26,981 - INFO - Message 1977e4a99c2dd1a1 classified as: Urgent
+2025-06-19 12:14:27,790 - INFO - Processing message 1977de2ddf67574f - Subject: Competition Launch: NeurIPS Open Polymer Prediction 2025, From: Kaggle <noreply@kaggle.com>
+2025-06-19 12:14:27,791 - INFO - Message 1977de2ddf67574f classified as: Promotions
+2025-06-19 12:14:28,616 - INFO - Processing message 1977d83c697abb49 - Subject: Sarah Sahli sent a message to the group conversation "4TWIN 7"., From: Sarah via Messenger <messages@facebookmail.com>
+2025-06-19 12:14:28,618 - INFO - Message 1977d83c697abb49 classified as: Urgent
+2025-06-19 12:14:29,434 - INFO - Processing message 1977c6a1963533dd - Subject: cara alwill, hasif 💌, and Terry Moran posted new notes, From: Substack <no-reply@substack.com>
+2025-06-19 12:14:29,444 - INFO - Message 1977c6a1963533dd classified as: Promotions
+2025-06-19 12:14:30,340 - INFO - Processing message 1977b03bd9eb1c58 - Subject: Beautiful photos on every screen 📱💻, From: Unsplash Team <marketing@unsplash.com>
+2025-06-19 12:14:30,341 - INFO - Message 1977b03bd9eb1c58 classified as: Promotions
+2025-06-19 12:14:31,121 - INFO - Processing message 1977afa13347fadd - Subject: Youssef Naamene sent a message to the group conversation "Ahhawa lblid 😃"., From: Youssef via Messenger <messages@facebookmail.com>
+2025-06-19 12:14:31,122 - INFO - Message 1977afa13347fadd classified as: Urgent
+2025-06-19 12:14:31,940 - INFO - Processing message 19779beef5f817a5 - Subject: Your photography tools download, From: Serge Ramelli <serge@photoserge.com>
+2025-06-19 12:14:31,942 - INFO - Message 19779beef5f817a5 classified as: Promotions
+2025-06-19 12:14:32,756 - INFO - Processing message 19779ba20ed1b0ef - Subject: Alerte de sécurité, From: Google <no-reply@accounts.google.com>
+2025-06-19 12:14:32,758 - INFO - Message 19779ba20ed1b0ef classified as: Urgent
+2025-06-19 12:14:33,533 - INFO - Processing message 197799992d25c27c - Subject: NEW: Expert-led live instruction on Codecademy, From: Codecademy <learn@itr.mail.codecademy.com>
+2025-06-19 12:14:33,534 - INFO - Message 197799992d25c27c classified as: Promotions
+2025-06-19 12:14:34,340 - INFO - Processing message 1977952a0e3d2204 - Subject: 🎉 Exciting news! Your proposal has been viewed!, From: Upwork <upwork@email.upwork.com>
+2025-06-19 12:14:34,342 - INFO - Message 1977952a0e3d2204 classified as: Promotions
+2025-06-19 12:14:35,124 - INFO - Processing message 19778f8e9c546685 - Subject: BTC Shrugs Geopolitics, From: "Mempool | Token Dispatch" <thetokendispatch+mempool@substack.com>
+2025-06-19 12:14:35,127 - INFO - Message 19778f8e9c546685 classified as: Promotions
+2025-06-19 12:14:35,945 - INFO - Processing message 19778cc3e2059f24 - Subject: $1.63M in Rewards & A Surprise Launch!, From: FundedNext <updates@fundednext.com>
+2025-06-19 12:14:35,946 - INFO - Message 19778cc3e2059f24 classified as: Urgent
+2025-06-19 12:14:36,733 - INFO - Processing message 19778bd0153a5363 - Subject: Aziz Ben Messaoud sent a message to the group conversation "Ahhawa lblid 😃"., From: Aziz via Messenger <messages@facebookmail.com>
+2025-06-19 12:14:36,734 - INFO - Message 19778bd0153a5363 classified as: Urgent
+2025-06-19 12:14:37,548 - INFO - Processing message 19778a1852a23b74 - Subject: Your Odoo free trial is coming to an end soon, From: Odoo Online <online@odoo.com>
+2025-06-19 12:14:37,549 - INFO - Message 19778a1852a23b74 classified as: Work
+2025-06-19 12:14:38,664 - INFO - Processing message 19778a1588851c39 - Subject: Updates to Your Basic Plan - Upgrade & Save 40%, From: Podcastle <marketing@news.podcastle.ai>
+2025-06-19 12:14:38,665 - INFO - Message 19778a1588851c39 classified as: Promotions
+2025-06-19 12:14:39,425 - INFO - Processing message 19778859313435ed - Subject: Frontend Software Engineer - Revolut Bank, From: Joinrs <info@joinrs.com>
+2025-06-19 12:14:39,426 - INFO - Message 19778859313435ed classified as: Urgent
+2025-06-19 12:14:40,240 - INFO - Processing message 1977868baccb941f - Subject: My personal welcome to Joinrs, Jihed  🚀, From: Anna Allevi <info@joinrs.com>
+2025-06-19 12:14:40,241 - INFO - Message 1977868baccb941f classified as: Promotions
+2025-06-19 12:14:41,053 - INFO - Processing message 19778537c6d1a18d - Subject: Welcome to Medius, From: "Soufia Ghariani, Medius" <soufia.ghariani@medius.teamtailor-mail.com>
+2025-06-19 12:14:41,054 - INFO - Message 19778537c6d1a18d classified as: Promotions
+2025-06-19 12:14:41,858 - INFO - Processing message 197784b6d265a1ab - Subject: ✅ Jihed, terminez de configurer votre appareil Apple iPhone en utilisant les plus récentes applis Google, From: Google <no-reply@google.com>
+2025-06-19 12:14:41,859 - INFO - Message 197784b6d265a1ab classified as: Urgent
+2025-06-19 12:14:42,672 - INFO - Processing message 197784a8e5be8851 - Subject: An unknown device or browser has been used to access your account, From: Upwork Notification <donotreply@upwork.com>
+2025-06-19 12:14:42,673 - INFO - Message 197784a8e5be8851 classified as: Urgent
+2025-06-19 12:14:43,464 - INFO - Processing message 197784a7911ddc79 - Subject: Alerte de sécurité, From: Google <no-reply@accounts.google.com>
+2025-06-19 12:14:43,465 - INFO - Message 197784a7911ddc79 classified as: Urgent
+2025-06-19 12:14:44,252 - INFO - Processing message 19777f7d3f22f0f2 - Subject: 100 000 $ en prix à gagner : Rejoignez le Coin Drop maintenant !, From: "Stake.com" <noreply@mail.stake.com>
+2025-06-19 12:14:44,255 - INFO - Message 19777f7d3f22f0f2 classified as: Urgent
+2025-06-19 12:14:45,077 - INFO - Processing message 1977621e6e8faa7e - Subject: Play Voice Tools: Level up your content, From: PlayAI <product@play.ht>
+2025-06-19 12:14:45,078 - INFO - Message 1977621e6e8faa7e classified as: Promotions
+2025-06-19 12:14:45,897 - INFO - Processing message 197740243b6b3eff - Subject: Lootbase's Mobile-First Bet 📱, From: "Rabbit Hole | Token Dispatch" <thetokendispatch+rabbit-hole@substack.com>
+2025-06-19 12:14:45,900 - INFO - Message 197740243b6b3eff classified as: Promotions
+2025-06-19 12:14:46,726 - INFO - Processing message 19773c590aba72b5 - Subject: Jihed's Recommended Classes, From: Skillshare <hello@skillshare.com>
+2025-06-19 12:14:46,728 - INFO - Message 19773c590aba72b5 classified as: Promotions
+2025-06-19 12:14:47,564 - INFO - Processing message 197732e002353878 - Subject: Forgotpassword code for Hoxx account, From: support@hoxx.com
+2025-06-19 12:14:47,565 - INFO - Message 197732e002353878 classified as: Urgent
+2025-06-19 12:14:48,353 - INFO - Processing message 1977308d16655179 - Subject: jihed, كل عام وأنت بألف خير، عيد ميلاد سعيد, From: FORSA Portal <noreply@for9a.com>
+2025-06-19 12:14:48,357 - INFO - Message 1977308d16655179 classified as: Urgent
+2025-06-19 12:14:49,138 - INFO - Processing message 197728e91a3d011e - Subject: Youssef Naamene sent a message to the group conversation "Ahhawa lblid 😃"., From: Youssef via Messenger <messages@facebookmail.com>
+2025-06-19 12:14:49,139 - INFO - Message 197728e91a3d011e classified as: Urgent
+2025-06-19 12:14:49,947 - INFO - Processing message 1977092a1e558663 - Subject: Outstanding works from Unsplash Contributors 🔝, From: Unsplash Team <marketing@unsplash.com>
+2025-06-19 12:14:49,949 - INFO - Message 1977092a1e558663 classified as: Promotions
+2025-06-19 12:14:50,746 - INFO - Processing message 1976fe85178687a7 - Subject: You logged into Adobe with Facebook, From: Facebook <notification@facebookmail.com>
+2025-06-19 12:14:50,747 - INFO - Message 1976fe85178687a7 classified as: Promotions
+2025-06-19 12:14:51,538 - INFO - Processing message 1976f4625e8d9ed4 - Subject: Firas Labidi sent a message to the group conversation "4TWIN 7"., From: Labidi via Messenger <messages@facebookmail.com>
+2025-06-19 12:14:51,539 - INFO - Message 1976f4625e8d9ed4 classified as: Urgent
+2025-06-19 12:14:52,360 - INFO - Processing message 1976f1099d8b2acb - Subject: [Suite à votre achat] : Jihed, êtes-vous satisfait(e) de vos derniers achats ?, From: DECATHLON <noreply-tn@email.decathlon.com>
+2025-06-19 12:14:52,364 - INFO - Message 1976f1099d8b2acb classified as: Urgent
+2025-06-19 12:14:53,170 - INFO - Processing message 1976e19dadb28e2c - Subject: 🚀 1 Hour Left, From: Thomas Kralow <info@thomaskralow.com>
+2025-06-19 12:14:53,171 - INFO - Message 1976e19dadb28e2c classified as: Promotions
+2025-06-19 12:14:53,981 - INFO - Processing message 1976bf5bf4604f32 - Subject: Need weekend plans? Look no further!, From: DEV Community <yo@dev.to>
+2025-06-19 12:14:53,988 - INFO - Message 1976bf5bf4604f32 classified as: Urgent
+2025-06-19 12:14:54,938 - INFO - Processing message 1976bd52c092d64f - Subject: Top Tips from our team, From: PlayAI <product@play.ht>
+2025-06-19 12:14:54,940 - INFO - Message 1976bd52c092d64f classified as: Promotions
+2025-06-19 12:14:55,704 - INFO - Processing message 1976b6c416df3b8d - Subject: Welcome to Unsplash 🙌🏼, From: Unsplash Team <friends@unsplash.com>
+2025-06-19 12:14:55,706 - INFO - Message 1976b6c416df3b8d classified as: Promotions
+2025-06-19 12:14:56,486 - INFO - Processing message 1976b006f3838317 - Subject: Khalil Ben Massoud sent a message to the group conversation "🦶⚽"., From: Khalil via Messenger <messages@facebookmail.com>
+2025-06-19 12:14:56,487 - INFO - Message 1976b006f3838317 classified as: Urgent
+2025-06-19 12:14:57,270 - INFO - Processing message 1976af9c2510ba4e - Subject: Zahra Zellazi sent a message to the group conversation "4 eme TWIN"., From: Zahra via Messenger <messages@facebookmail.com>
+2025-06-19 12:14:57,272 - INFO - Message 1976af9c2510ba4e classified as: Urgent
+2025-06-19 12:14:58,127 - INFO - Processing message 1976acc56f059c13 - Subject: Firas Labidi sent a message to the group conversation "4TWIN 7"., From: Labidi via Messenger <messages@facebookmail.com>
+2025-06-19 12:14:58,128 - INFO - Message 1976acc56f059c13 classified as: Urgent
+2025-06-19 12:14:58,931 - INFO - Processing message 1976ab40a8d7abd8 - Subject: The easiest way to launch scalable web services , From: Stephen from Render <hello@render.com>
+2025-06-19 12:14:58,933 - INFO - Message 1976ab40a8d7abd8 classified as: Promotions
+2025-06-19 12:14:59,722 - INFO - Processing message 1976aa7a6be91baf - Subject: Important change to your Premier League account, From: Fantasy Premier League <comms@mailout.comms.premierleague.com>
+2025-06-19 12:14:59,726 - INFO - Message 1976aa7a6be91baf classified as: Promotions
+2025-06-19 12:15:00,527 - INFO - Processing message 1976a7435320e347 - Subject: Yassin Nouri sent a message to the group conversation "4 eme TWIN"., From: Yassin via Messenger <messages@facebookmail.com>
+2025-06-19 12:15:00,529 - INFO - Message 1976a7435320e347 classified as: Urgent
+2025-06-19 12:15:01,317 - INFO - Processing message 1976a6b05730aff7 - Subject: Your AI presets download link, From: Serge Ramelli <serge@photoserge.com>
+2025-06-19 12:15:01,321 - INFO - Message 1976a6b05730aff7 classified as: Promotions
+2025-06-19 12:15:02,102 - INFO - Processing message 1976a3d14b1496d3 - Subject: We’re live — join the strategy session now, From: Thomas Kralow <info@thomaskralow.com>
+2025-06-19 12:15:02,104 - INFO - Message 1976a3d14b1496d3 classified as: Promotions
+2025-06-19 12:15:02,848 - INFO - Processing message 1976a06288e8ef9e - Subject: 1 hour left — your session link is coming, From: Thomas Kralow <info@thomaskralow.com>
+2025-06-19 12:15:02,850 - INFO - Message 1976a06288e8ef9e classified as: Promotions
+2025-06-19 12:15:03,637 - INFO - Processing message 19769d1dc600184a - Subject: Make Professional Quality Videos Like This in Just Minutes (It's Easy  Jihed!), From: "Kate @ Pictory" <kate@pictory.ai>
+2025-06-19 12:15:03,638 - INFO - Message 19769d1dc600184a classified as: Promotions
+2025-06-19 12:15:04,432 - INFO - Processing message 197698498352c0d9 - Subject: Adam Back: The Man Who Built Bitcoin's Heart 🔐, From: "HashedIn | Token Dispatch" <thetokendispatch+hashedin@substack.com>
+2025-06-19 12:15:04,436 - INFO - Message 197698498352c0d9 classified as: Promotions
+2025-06-19 12:15:05,265 - INFO - Processing message 197690c4313235fa - Subject: This isn't fair, From: Serge Ramelli <serge@photoserge.com>
+2025-06-19 12:15:05,267 - INFO - Message 197690c4313235fa classified as: Newsletters
+2025-06-19 12:15:06,428 - INFO - Processing message 19768e247952b741 - Subject: Welcome to your Google Developer Profile!, From: Google Developer Profile <googledev-noreply@google.com>
+2025-06-19 12:15:06,430 - INFO - Message 19768e247952b741 classified as: Promotions
+2025-06-19 12:15:07,250 - INFO - Processing message 19768c69de824f2d - Subject: Check all the recent updates in Sylius 🦢, From: Patryk from Sylius <contact@sylius.com>
+2025-06-19 12:15:07,252 - INFO - Message 19768c69de824f2d classified as: Newsletters
+2025-06-19 12:15:08,045 - INFO - Processing message 19768bbaa78a9d84 - Subject: Tirez dans le mille et remportez jusqu’à 500× votre mise !, From: "Stake.com" <noreply@mail.stake.com>
+2025-06-19 12:15:08,050 - INFO - Message 19768bbaa78a9d84 classified as: Urgent
+2025-06-19 12:15:08,875 - INFO - Processing message 19768220f6702391 - Subject: Youssef Naamene sent a message to the group conversation "Ahhawa lblid 😃"., From: Youssef via Messenger <messages@facebookmail.com>
+2025-06-19 12:15:08,876 - INFO - Message 19768220f6702391 classified as: Urgent
+2025-06-19 12:15:09,635 - INFO - Processing message 19766aec32449b09 - Subject: Welcome to Play, From: PlayAI <product@play.ht>
+2025-06-19 12:15:09,638 - INFO - Message 19766aec32449b09 classified as: Promotions
+2025-06-19 12:15:10,590 - INFO - Processing message 19765d10bd710693 - Subject: Youssef Naamene sent a message to the group conversation "🦶⚽"., From: Youssef via Messenger <messages@facebookmail.com>
+2025-06-19 12:15:10,591 - INFO - Message 19765d10bd710693 classified as: Urgent
+2025-06-19 12:15:11,393 - INFO - Processing message 1976542b903b1122 - Subject: "these presets work like magic!", From: Serge Ramelli <serge@photoserge.com>
+2025-06-19 12:15:11,396 - INFO - Message 1976542b903b1122 classified as: Promotions
+2025-06-19 12:15:12,223 - INFO - Processing message 19764526f71957ba - Subject: [Free Video Tutorial] How to Use Copilot in Excel, From: "Udemy Instructor: Start-Tech Academy" <no-reply@e.udemymail.com>
+2025-06-19 12:15:12,227 - INFO - Message 19764526f71957ba classified as: Promotions
+2025-06-19 12:15:13,031 - INFO - Processing message 19763d6fd7280625 - Subject: Sarah Sahli sent a message to the group conversation "4TWIN 7"., From: Sarah via Messenger <messages@facebookmail.com>
+2025-06-19 12:15:13,033 - INFO - Message 19763d6fd7280625 classified as: Urgent
+2025-06-19 12:15:13,838 - INFO - Processing message 19763d0d33de6dcf - Subject: Download these Lightroom Presets before we begin, From: Serge Ramelli <serge@photoserge.com>
+2025-06-19 12:15:13,841 - INFO - Message 19763d0d33de6dcf classified as: Promotions
+2025-06-19 12:15:14,708 - INFO - Processing message 1976376811648b63 - Subject: Youssef Naamene sent a message to the group conversation "🦶⚽"., From: Youssef via Messenger <messages@facebookmail.com>
+2025-06-19 12:15:14,710 - INFO - Message 1976376811648b63 classified as: Urgent
+2025-06-19 12:15:15,530 - INFO - Processing message 19761bb6f731673f - Subject: JSExpress: Your Odoo Periodic Digest, From: JSExpress <notifications@jsexpress.odoo.com>
+2025-06-19 12:15:15,532 - INFO - Message 19761bb6f731673f classified as: Urgent
+2025-06-19 12:15:16,344 - INFO - Processing message 197613f55a0a80bb - Subject: Eya Boukhris sent a message to the group conversation "4TWIN 7"., From: Eya via Messenger <messages@facebookmail.com>
+2025-06-19 12:15:16,346 - INFO - Message 197613f55a0a80bb classified as: Urgent
+2025-06-19 12:15:17,167 - INFO - Processing message 1976080b3cccbdc8 - Subject: Competition Launch: Make Data Count - Finding Data References, From: Kaggle <no-reply@kaggle.com>
+2025-06-19 12:15:17,168 - INFO - Message 1976080b3cccbdc8 classified as: Promotions
+2025-06-19 12:15:18,024 - INFO - Processing message 1976067214262fa2 - Subject: The easiest way to launch scalable web services , From: Stephen from Render <hello@render.com>
+2025-06-19 12:15:18,027 - INFO - Message 1976067214262fa2 classified as: Promotions
+2025-06-19 12:15:18,897 - INFO - Processing message 19760454f0f21a1d - Subject: Unleash your creativity: the Storyblok Challenge just dropped with $3,000 in prizes!, From: DEV Community <yo@dev.to>
+2025-06-19 12:15:18,905 - INFO - Message 19760454f0f21a1d classified as: Urgent
+2025-06-19 12:15:19,695 - INFO - Processing message 1976012efff9fd17 - Subject: Warda Hlel sent a message to the group conversation "4TWIN 7"., From: Warda via Messenger <messages@facebookmail.com>
+2025-06-19 12:15:19,697 - INFO - Message 1976012efff9fd17 classified as: Urgent
+2025-06-19 12:15:20,507 - INFO - Processing message 1975f27b92458be5 - Subject: From Practice to Profit: Sharpen Your Skills with FundedNext, From: FundedNext <updates@fundednext.com>
+2025-06-19 12:15:20,509 - INFO - Message 1975f27b92458be5 classified as: Promotions
+2025-06-19 12:15:21,315 - INFO - Processing message 1975e5e308ab050c - Subject: Slackbot mentioned you in #Slackbot, From: Slack <notification@slack.com>
+2025-06-19 12:15:21,317 - INFO - Message 1975e5e308ab050c classified as: Promotions
+2025-06-19 12:15:22,133 - INFO - Processing message 1975d959ccf5fd4e - Subject: Airtable workspace switched to the Free plan, From: Airtable <noreply@airtable.com>
+2025-06-19 12:15:22,135 - INFO - Message 1975d959ccf5fd4e classified as: Promotions
+2025-06-19 12:15:22,939 - INFO - Processing message 1975cde3cc9183fe - Subject: Weekly Download — Festival Radar: Tennessee Farm Essentials, Plus Check Out Exclusive Commentary From Goose, From: SoundCloud <info@announcements.soundcloud.com>
+2025-06-19 12:15:22,960 - INFO - Message 1975cde3cc9183fe classified as: Personal
+2025-06-19 12:15:23,741 - INFO - Processing message 1975bfbac69adeb8 - Subject: Aymen Ghazouani sent a message to the group conversation "4TWIN 7"., From: Aymen via Messenger <messages@facebookmail.com>
+2025-06-19 12:15:23,743 - INFO - Message 1975bfbac69adeb8 classified as: Urgent
+2025-06-19 12:15:24,565 - INFO - Processing message 1975bd993ce840b2 - Subject: d0wwN is live: EL KING FEL KICK - RP FEL UG  + JUST CHATTING, From: Twitch <no-reply@twitch.tv>
+2025-06-19 12:15:24,571 - INFO - Message 1975bd993ce840b2 classified as: Urgent
+2025-06-19 12:15:25,384 - INFO - Processing message 1975b19ac4844e35 - Subject: wow, From: Serge Ramelli <serge@photoserge.com>
+2025-06-19 12:15:25,387 - INFO - Message 1975b19ac4844e35 classified as: Newsletters
+2025-06-19 12:15:26,371 - INFO - Processing message 1975a25b75e596ad - Subject: The Path | 7 ways to play your way to progress & a brand new class from Brent Eviston 🔥, From: Skillshare <hello@skillshare.com>
+2025-06-19 12:15:26,376 - INFO - Message 1975a25b75e596ad classified as: Promotions
+2025-06-19 12:15:27,289 - INFO - Processing message 1975a036c115fe9d - Subject: ETH's Treasury Turnaround 🏛️, From: "Wormhole | Token Dispatch" <thetokendispatch+wormhole@substack.com>
+2025-06-19 12:15:27,293 - INFO - Message 1975a036c115fe9d classified as: Promotions
+2025-06-19 12:15:28,321 - INFO - Processing message 197599fc60d03c88 - Subject: The best ways to get started with Deepgram 👇, From: Deepgram <devs@learn.deepgram.com>
+2025-06-19 12:15:28,324 - INFO - Message 197599fc60d03c88 classified as: Promotions
+2025-06-19 12:15:29,130 - INFO - Processing message 197599e9271422a4 - Subject: Firas Labidi sent a message to the group conversation "4TWIN 7"., From: Labidi via Messenger <messages@facebookmail.com>
+2025-06-19 12:15:29,132 - INFO - Message 197599e9271422a4 classified as: Urgent
+2025-06-19 12:15:29,944 - INFO - Processing message 197595e67f6c9aeb - Subject: Aymen Ghazouani sent a message to the group conversation "4TWIN 7"., From: Aymen via Messenger <messages@facebookmail.com>
+2025-06-19 12:15:29,946 - INFO - Message 197595e67f6c9aeb classified as: Urgent
+2025-06-19 12:15:30,580 - INFO - Archiving old emails...
+2025-06-19 12:15:59,718 - INFO - Flagging urgent/unread emails from key contacts...
+2025-06-19 12:16:17,154 - INFO - Email processing finished.
+2025-06-19 12:22:21,628 - INFO - Starting email processing.
+2025-06-19 12:22:21,629 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-19 12:22:21,715 - INFO - Refreshing credentials due to a 401 response. Attempt 1/2.
+2025-06-19 12:22:21,819 - ERROR - An error occurred during email processing: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+2025-06-19 12:22:21,819 - INFO - Email processing finished.
